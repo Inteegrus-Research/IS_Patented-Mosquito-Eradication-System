@@ -1,0 +1,34 @@
+Ingredients:-
+
+Cornstarch
+Gelatine
+Corn syrup
+Sugar (Brown/White)
+Glycerine
+Water (Distilled)
+Honey (Raw)
+Yeast (Active Dry)
+Blood Meal / Casein
+Baking Soda
+Citric Acid / Vinegar
+Powdered Carbon Dioxide
+Lactic Acid
+Octenol (if available)
+Hexanal (Aldehyde)
+Ethanol
+
+
+Components:-
+12V Li-ion Battery (2000mAh - 4000mAh)
+TP4056 Charging Module
+MT3608 Boost Convertor
+Flyback Transformer (3kV - 10kV)
+1N4007 High Voltage Diode
+10nF, 3kV Capacitor
+1MOhm,2W Resistor
+Electrified Mesh Grid(Stainless Steel/Copper)
+365nm UV LED(High-Power)
+330Ohm Resistor
+Wires & Connectors
+
+
